@@ -5,4 +5,4 @@ BiG-AMP algorithm. It is a trial on that thought. It improves the result in some
 I move this code online for your reference if you are also interested in this topic.
 
 # How to use
-There are three applications in these code, which are Matrix Completion, Robust PCA and Dictionary Learning. For a quick start on the Dictionary Learning application, open DL_tril.m and run it. It will return the error every 10 iterations.
+There are three applications in these code, which are Matrix Completion, Robust PCA and Dictionary Learning. For a quick start on the Dictionary Learning application, open trial_DL.m and run it. It will return the error every 10 iterations.
